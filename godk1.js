@@ -59,3 +59,5 @@ for (let index = 0; index < katalog.length; index++) {
 }
 
 console.log(playliste)
+
+//færdig
