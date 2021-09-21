@@ -1,7 +1,7 @@
 let hemmeligBesked = ['hej','klaus','vil','du','med','til','fodbold','i','klubben','i','aften','?','kurt']
 //1. Brug en array metode til at slette det sidste element af arrayet hemmeligBesked
 hemmeligBesked.pop()
-//console.log(hemmeligBesked); 
+console.log(hemmeligBesked); 
 
 //2. Brug en array metode til at tilføje separate strenge: ‘adressen’,’er’,’Priratvej’ og ’100’til slutningen af hemmeligBeske
 hemmeligBesked.push('adressen','er','Priratvej','100')
