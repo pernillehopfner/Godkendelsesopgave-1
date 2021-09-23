@@ -37,10 +37,8 @@ function gørBeskedPersonlig(besked, navn) {
 return besked.replace('bro!', navn)
 }
 
-faktiskeBesked[1] = 'bro!'
-
 const result = gørBeskedPersonlig(faktiskeBesked, 'Sigurd', 'bro!')
-//console.log(result)
+console.log(result)
 
 //10. gørBeskedPersonlig(Sigurd) skal printe følgende besked til consolen: 'yo sigurd vil du med til piratfest på reffen i aften? Adressen er Piratvej 100.
 
